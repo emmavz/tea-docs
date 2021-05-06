@@ -6,4 +6,4 @@ So here is the basic assumption: if the execution environment is trusted, the co
 
 TEA Project is based on IPFS, Blockchain, Web Assembly, and Trusted Computing technologies. By adding a TEA hardware security module, the IPFS node can also serve as a computing node besides serving static content. IPFS turns to Inter Planetary Function-as-a-Service. 
 
-TEA project has two tokens. The TEA token is a stable utility token as gas. The Camellia token is an NFT that presents the credit and capability of a TEA mining node. TEA token economy is an autonomous evolution ecosystem.  
+TEA project has two tokens. The TEA token is a stable utility token as gas. The Camellia token is an NFT that presents the credit and capability of a TEA mining node. TEA token economy is an autonomous evolution ecosystem. 
